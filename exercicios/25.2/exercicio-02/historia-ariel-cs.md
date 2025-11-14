@@ -1,5 +1,4 @@
-# Título da sua história
-
+# Rec'n play
 ## Sobre o que é esta história?
 Evento de tecnologia em recife (Rec'n Play) tive a oportunidade de trazer meu jogo da atividade de introdução a computação para a exposição de jogos da Forja
 
