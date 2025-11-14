@@ -33,6 +33,7 @@
 - JavaScript - exemplo
 - Go - @phpedruo
 - C++ - @jffn-web
+- C - @beatrizloyola
 
 ---
 
