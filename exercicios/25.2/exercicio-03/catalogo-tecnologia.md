@@ -17,6 +17,7 @@
 
 - Git - exemplo
 - Figma - exemplo
+- canva - @lauravi354-github
 
 ---
 
@@ -31,13 +32,21 @@
 
 - Python - exemplo
 - JavaScript - exemplo
-
----
+- Go - @phpedruo
+- Assembly (Linguagem de programação de maior nível existente kk) - @pedrovcb
+- c++ - @joaomafraa
+- C++ - @jffn-web
+- C - @beatrizloyola
+- Lua (Roblox) - @LarissaGiovanna
+- Julia (EXISTE SIM ESSA LINGUAGEM DE PROGRAMAÇÃO) - @juliatenoriocalado
 
 ## Empresas do ecossistema (Recife / Porto Digital)
 
 - CESAR - exemplo
 - CESAR School - exemplo
+- Fiap 
+- Tempest - @eduardommb
+- Avanade
 
 ---
 
@@ -45,3 +54,4 @@
 
 - Unity - exemplo
 - React - exemplo
+- Jungle - sofiavillelav@gmail.com
