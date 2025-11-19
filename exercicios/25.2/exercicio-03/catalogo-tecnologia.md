@@ -38,6 +38,7 @@
 - assembly - @JuanRiquelme662
 - PHP (orientada à objetos) - @RiosGabri
 - Go - @phpedruo
+- SQL - @MarcusBarbosa
 - Java - @Luiza029
 - Java - @bielmalta 
 - C# - @arthurdalmeida
