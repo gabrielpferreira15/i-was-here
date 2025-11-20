@@ -19,6 +19,7 @@
 
 - Git - exemplo
 - Figma - exemplo
+- GitHub - @ygorfht
 - canva - @lauravi354-github
 
 ---
